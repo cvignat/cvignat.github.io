@@ -3,7 +3,7 @@
 setTransparentGifURL('Media/transparent.gif');function hostedOnDM()
 {return false;}
 function onPageLoad()
-{loadMozillaCSS('who_and_where_files/who_and_whereMoz.css')
+{loadMozillaCSS('index_files/who_and_whereMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('Media/transparent.gif');performPostEffectsFixups()}
 function onPageUnload()
 {Widget.onunload();}
