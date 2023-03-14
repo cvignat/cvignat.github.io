@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:6D12D086-5B88-4ED2-AEB2-05F6305675BE</id>
+ <title>Page list Atom feed</title>
+ <updated>2014-11-08T23:33:18+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:E9D7F3BB-5533-4692-9CEA-466C9D6371D7</id>
+  <title>who and where</title>
+  <title xmlns="urn:iweb:">who and where</title>
+  <in-navbar xmlns="urn:iweb:">E9D7F3BB-5533-4692-9CEA-466C9D6371D7</in-navbar>
+  <link rel="alternate" href="who_and_where.html"/>
+  <updated>2014-11-08T23:33:18.001+01:00</updated>
+  <content>who and where</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:351FFDC6-D36E-4C08-A623-B0017CBC325E</id>
+  <title>research</title>
+  <title xmlns="urn:iweb:">research</title>
+  <in-navbar xmlns="urn:iweb:">351FFDC6-D36E-4C08-A623-B0017CBC325E</in-navbar>
+  <link rel="alternate" href="research.html"/>
+  <updated>2014-11-08T23:33:18.002+01:00</updated>
+  <content>research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:BECD3881-55B4-41C3-B55D-EEA7584228E0</id>
+  <title>publications</title>
+  <title xmlns="urn:iweb:">publications</title>
+  <in-navbar xmlns="urn:iweb:">BECD3881-55B4-41C3-B55D-EEA7584228E0</in-navbar>
+  <link rel="alternate" href="publications.html"/>
+  <updated>2014-11-08T23:33:18.003+01:00</updated>
+  <content>publications</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:40E4EA02-907F-482A-89A9-B01E03FFE146</id>
+  <title>literature</title>
+  <title xmlns="urn:iweb:">literature</title>
+  <in-navbar xmlns="urn:iweb:">40E4EA02-907F-482A-89A9-B01E03FFE146</in-navbar>
+  <link rel="alternate" href="literature.html"/>
+  <updated>2014-11-08T23:33:18.004+01:00</updated>
+  <content>literature</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:34420004-A0F5-4EA9-9D13-250099BB50C7</id>
+  <title>pictures</title>
+  <title xmlns="urn:iweb:">pictures</title>
+  <in-navbar xmlns="urn:iweb:">34420004-A0F5-4EA9-9D13-250099BB50C7</in-navbar>
+  <link rel="alternate" href="pictures.html"/>
+  <updated>2014-11-08T23:33:18.005+01:00</updated>
+  <content>pictures</content>
+ </entry>
+</feed>
